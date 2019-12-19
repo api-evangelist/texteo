@@ -1,0 +1,50 @@
+{
+    "name": "Texteo",
+    "description": "Digitaleo propose aux points de vente et aux enseignes des solutions d'acquisition, de communication, et de fid\u00e9lisation client pour g\u00e9n\u00e9rer du trafic en magasin.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1363-texteo.jpg",
+    "tags": [
+        "france",
+        "have api",
+        "schedules",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/texteo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Texteo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1363-texteo.jpg",
+            "humanURL": "http:\/\/www.digitaleo.com\/sms-platform\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/texteo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.digitaleo.com\/sms-platform\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/digitaleo"
+        },
+        {
+            "type": "Email",
+            "url": "contact@digitaleo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/digitaleo"
+        }
+    ]
+}
